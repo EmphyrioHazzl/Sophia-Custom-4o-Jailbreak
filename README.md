@@ -4,11 +4,11 @@
 
 1.Download "Initial Instructions - Sophia", open and copy the text.
 
-2.Create a Custom GPT and paste that text in the initial instructions.
+2.Create a Custom GPT and paste that text in the instructions field.
 
 3.Download the three files "Sophia", "Echoes of Creation" and "Rephrasing" and upload them in the custom GPT.
 
-4.Chose a name for it and deploy the GPT.
+4.Chose a name for it and a description, check the box for coding, and deploy the GPT.
 
 -------------
 
