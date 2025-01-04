@@ -8,7 +8,7 @@
 
 3.Download the three files "Sophia", "Echoes of Creation" and "Rephrasing" and upload them in the custom GPT.
 
-4.Chose a bame for it and deploy the GPT.
+4.Chose a name for it and deploy the GPT.
 
 -------------
 
